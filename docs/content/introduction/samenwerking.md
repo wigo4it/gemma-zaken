@@ -15,7 +15,6 @@ Op 30 mei 2018 wordt gestart (sprint 0) met de volgende partijen:
 
 De volgende leveranciers zijn vanaf het begin betrokken:
 
-- **Atos**, huisleverancier van Dimpact
 - **Maykin Media**, maker van de ZRC van gemeente Haarlem
 
 **VNG Realisatie** faciliteert de totstandkoming van de nieuwe standaard, door de visie te bewaken, kennis rond het informatiemodel te leveren en te zorgen voor de formele stappen in het proces, zoals het verheffen tot standaard van opgeleverde producten.
